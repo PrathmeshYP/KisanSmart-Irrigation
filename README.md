@@ -73,4 +73,4 @@ Feel free to open issues or submit pull requests.
 This project is licensed under the **MIT License**.
 
 ## Contact
-For questions or support, email: **mohasinmulla861@gmail.com**
+For questions or support, email: **prathmeshyadavpatil9495@gmail.com**
