@@ -54,7 +54,7 @@ This project is a Smart Irrigation System designed to optimize water usage for a
 
 ## Usage
 - Ensure all sensors and connections are secure.  
-- Monitor soil moisture, temperature, and humidity via the Blynk app.  
+- Monitor soil moisture, temperature, and humidity via the Blynk App.  
 - The pump turns ON automatically when moisture is below threshold.  
 - You can manually override pump control from Blynk.  
 - Adjust settings based on crop or environmental needs.  
@@ -66,7 +66,7 @@ This project is a Smart Irrigation System designed to optimize water usage for a
 - ML-based crop care suggestions  
 
 ## Contribution
-Contributions, issues, and feature requests are welcome!  
+Contributions, issues, and feature requests are welcome. 
 Feel free to open issues or submit pull requests.
 
 ## License
